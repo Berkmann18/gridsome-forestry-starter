@@ -1,10 +1,11 @@
 ---
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
-title: Porta400
+thumbnail: "/uploads/sacoin.jpg"
+title: SaCoin
 date: 2019-01-03T23:00:00.000+00:00
 categories:
-- photography
-- yellow
+- projects
+- blockchain
+- cryptocurrency
 project_bg_color: ''
 project_fg_color: ''
 
