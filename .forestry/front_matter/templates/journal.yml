@@ -37,4 +37,5 @@ fields:
   label: Author
   default: Maximilian Berkmann
 pages:
+- journal/ml-in-js.md
 - journal/nix-dev-env.md
