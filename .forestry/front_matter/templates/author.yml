@@ -18,3 +18,8 @@ fields:
 - type: text
   name: twitter
   label: Twitter
+- name: linkedin
+  type: text
+  config:
+    required: false
+  label: LinkedIn
