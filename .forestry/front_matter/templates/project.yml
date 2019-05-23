@@ -37,6 +37,5 @@ fields:
   label: Foreground color
 pages:
 - projects/sacoin.md
-- projects/bwc.md
 - projects/3d-graff.md
 - projects/sunk.md

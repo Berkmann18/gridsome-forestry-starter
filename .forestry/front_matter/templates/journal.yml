@@ -35,6 +35,6 @@ fields:
     - Nichlas W. Andersen
     - Maximilian Berkmann
   label: Author
-  default:  Maximilian Berkmann
+  default: Maximilian Berkmann
 pages:
 - journal/nix-dev-env.md
