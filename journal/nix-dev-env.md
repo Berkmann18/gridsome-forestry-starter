@@ -1,5 +1,5 @@
 ---
-date: 24/05/2019
+date: 23/05/2019
 title: WSL development environment
 author: Maximilian Berkmann
 excerpt: Get up and running with a *nix install
