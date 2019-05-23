@@ -1,5 +1,5 @@
 {
-  "name": "itsnwa.com",
+  "name": "gridsome-forestry-starter-berkmann18",
   "private": true,
   "scripts": {
     "build": "gridsome build",

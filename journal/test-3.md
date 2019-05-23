@@ -1,7 +1,7 @@
 ---
-date: 05/22/2019
+date: 05/23/2019
 title: Gridsome with Forestry CMS starter-kit
-author: Nichlas W. Andersen
+author: Maximilian Berkmann
 excerpt: Get up and running on GNU/Linux and WSL
 
 ---

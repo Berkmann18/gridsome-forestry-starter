@@ -2,10 +2,10 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Nichlas W. Andersen",
-  siteUrl: `https://www.itsnwa.com`,
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  siteName: "Gridsome Forestry Starter",
+  siteUrl: `https://Berkmann18.github.io/gridsome-forestry-starter`,
+  titleTemplate: "%s - Berkmann18",
+  siteDescription: "Passionate Computer Scientist",
   plugins: [
     {
       use: "@gridsome/source-filesystem",

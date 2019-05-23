@@ -21,7 +21,7 @@ fields:
     display_utc: true
     date_format: D. MMMM YYYY
     time_format: ''
-    export_format: MM/DD/YYYY
+    export_format: DD/MM/YYYY
   default: now
 - type: select
   name: author
@@ -33,7 +33,8 @@ fields:
     required: true
     options:
     - Nichlas W. Andersen
+    - Maximilian Berkmann
   label: Author
-  default: Nichlas W. Andersen
+  default:  Maximilian Berkmann
 pages:
-- journal/macos-development-environment.md
+- journal/nix-dev-env.md

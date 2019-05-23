@@ -36,7 +36,7 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
-- projects/3d-graff.md
 - projects/sacoin.md
-- projects/sunk.md
 - projects/bwc.md
+- projects/3d-graff.md
+- projects/sunk.md
