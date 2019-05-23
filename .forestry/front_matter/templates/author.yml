@@ -7,6 +7,7 @@ fields:
   name: title
   config:
     required: true
+  default: Maximilian Berkmann
 - type: textarea
   name: bio
   label: Bio
@@ -15,11 +16,14 @@ fields:
 - type: file
   name: avatar
   label: Avatar
+  default: "/uploads/0.jpg"
 - type: text
   name: twitter
   label: Twitter
+  default: https://twitter.com/berkmann18
 - name: linkedin
   type: text
   config:
     required: false
   label: LinkedIn
+  default: https://linkedin.com/in/mberkmann
